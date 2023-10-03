@@ -7,7 +7,7 @@
 
 > OOP is Concept by which code becomes well structured, well Organized, well Secured and increases it's reusability.
 
-### - Principles od OOP :
+### - Principles of OOP :
 
 > * 4 Principles OOP :
 >

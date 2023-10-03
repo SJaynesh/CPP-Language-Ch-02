@@ -18,7 +18,7 @@
 
 
   #### 1. Encapsulation :
-  > * Encapsulation means wrapping as code much as you can in a class.
+  > * Encapsulation means wrapping code as much as you can in a class.
   > * It helps in hiding the implementation details and provides data protection.
 
   > * `Setter` 

@@ -1,6 +1,6 @@
 # 2. Programming with OOPs
 
-> * `POP` => Procedurek Oriented Programming : C
+> * `POP` => Procedure Oriented Programming : C
 > * `OOP` => Object Oriented Programming : C++,Dart,Java,C#,Python,etc
 
 ### - What is Object Oriented Programming ?

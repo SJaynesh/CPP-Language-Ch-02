@@ -1,3 +1,4 @@
+
 # 2. Programming with OOPs
 
 > * `POP` => Procedure Oriented Programming : C
@@ -54,6 +55,7 @@
 
  #### 4. Data Abstraction (to secure) :
   > * decides where data will be accessed.
+  > * manage which data can be accessed through object. 
   > * `Access Modifiers : `<br>
   > * public
   > * private
@@ -81,7 +83,12 @@
 
 
 ### Access Modifiers (public & private) :
-> *  `private `
+  #### `private   (default)` :
+  > * limited to class.
+#### `public` :
+  > *  can be accessed everywhere throgh object.
+#### `protected` :
+  > * can be accessed in derived class.
 
 <pre>
     Syntax:

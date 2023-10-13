@@ -81,7 +81,7 @@ https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/62b1204a-2cb5-4d7
   #### class : 
   > * One type of blueprint structure + UDF
   > * `Collection of Data Members(Attributes) and Data Member Functions(Methods).` 
-<br><br>
+
 > * Data Members == Variable == Attributes
 > * Member Function == UDF == Methodes
 <br/>

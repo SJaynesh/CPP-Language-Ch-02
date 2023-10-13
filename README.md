@@ -84,7 +84,8 @@ https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/62b1204a-2cb5-4d7
 
 > * Data Members == Variable == Attributes
 > * Member Function == UDF == Methodes
-<br/>
+
+
  #### object : 
   > * `Instance(variable) of class.`
   > * reference of class.

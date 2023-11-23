@@ -92,6 +92,7 @@ https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/62b1204a-2cb5-4d7
   > * to access the attributes or methods of class we must create object of class.
 <br/><br/>
 <p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/c8e53e10-b9e5-4d54-947f-dfd09f975f42.png" width=40% height=30%></p>
+
 <p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/53ecf52f-2846-417d-be7d-ee544d6e2df3.png" width=40% height=30%></p>
 <p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/0b170d96-98cd-4c75-b10b-fcf5e32fafda.png" width=60% height=50%></p>
 

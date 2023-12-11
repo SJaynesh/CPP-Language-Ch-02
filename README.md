@@ -137,7 +137,7 @@ https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/62b1204a-2cb5-4d7
 
 <p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/0b170d96-98cd-4c75-b10b-fcf5e32fafda.png" width=60% height=50%></p>
 
-<br>
+<br> 
 
 https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/8cd02d9c-bc67-4177-95f6-a3ebf182743f
 

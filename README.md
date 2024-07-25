@@ -208,6 +208,7 @@ https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/8cd02d9c-bc67-417
 
  > * Members needed anywhere in whole program for interaction are declared as public.
  > * Can be accessed everywhere throgh object.
+ > * To access all data members we have to make them publicly available using public access modifier. 
 
 <br>
 
@@ -217,6 +218,7 @@ https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/8cd02d9c-bc67-417
 
  > * Members that are internal to the class and should not be accessible from outside are declared as private. 
  > * Limited to class.
+ > * By Default private access modifier is already available whether we mention it or not. 
 
 <br>
 

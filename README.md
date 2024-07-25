@@ -200,29 +200,36 @@ https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/8cd02d9c-bc67-417
 
 > * Access Modifiers in C++ are keywords that define the visibility and accessibility of class members(attribues and methods) within the class and from outside the class.
 
-<br>
+<br><br>
 
-  #### `private   (default)` :
-
-<br>
-  
-  > * limited to class.
+#### `public`
 
 <br>
 
-#### `public` :
+ > * Members needed anywhere in whole program for interaction are declared as public.
+ > * Can be accessed everywhere throgh object.
 
 <br>
-  > *  can be accessed everywhere throgh object.
+
+#### `private`
+
+<br>
+
+ > * Members that are internal to the class and should not be accessible from outside are declared as private. 
+ > * Limited to class.
 
 <br>
 
 #### `protected` :
-  > * can be accessed in derived class.
+
+<br>
+
+> * Used in class hierachies to allow derived classes to access certain members while keeping them hidden from outside.  
+> * Can be accessed in Derived class.
 
 <br/><br/>
 
-https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/2476d498-66cd-41d1-a0ea-03e1c2c829d1
+https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/2476d498-66cd-41d1-a0ea-03e1c2c829d1 
 
 <br><br>
 

@@ -1,7 +1,7 @@
 
 # 2. Programming with OOPs
 
-> * `POP` => Procedure Oriented Programming : C , Pascal , FORTRAN 
+> * `POP` => Procedure Oriented Programming : C , Pascal , FORTRAN  
 > * `OOP` => Object Oriented Programming : C++,Dart,Java,C#,Python,etc
  
 <br/><br/>

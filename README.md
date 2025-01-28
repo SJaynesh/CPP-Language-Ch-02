@@ -111,11 +111,11 @@
 <br><br>
 
 
-<p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/009e97fc-1ee6-439e-b524-2d15c0253f22.png" width=60% height=50%></p>
+<p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/009e97fc-1ee6-439e-b524-2d15c0253f22.png" width=60% height=50%></p> 
 
 <br><br>
 
-https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/62b1204a-2cb5-4d72-88d5-1b70ce6103b8    
+https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/62b1204a-2cb5-4d72-88d5-1b70ce6103b8     
  
 
 

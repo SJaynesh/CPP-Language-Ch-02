@@ -1,4 +1,3 @@
-
 # 2. Programming with OOPs
 
 > * `POP` => Procedure Oriented Programming : C , Pascal , FORTRAN  

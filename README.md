@@ -49,7 +49,7 @@
 
 <br><br>
 
-<p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/434b5742-ae08-4b64-bd04-4ffe419055e4.png" width=60% height=50%></p>
+<p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/434b5742-ae08-4b64-bd04-4ffe419055e4.png" width=60% height=50%></p>  
 
 
 <br/><br/>

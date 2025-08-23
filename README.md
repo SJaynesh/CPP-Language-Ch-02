@@ -169,20 +169,20 @@ https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/62b1204a-2cb5-4d7
 <br/>
 <br/>
 
-<p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/c8e53e10-b9e5-4d54-947f-dfd09f975f42.png" width=40% height=30%></p> 
-
+<p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/c8e53e10-b9e5-4d54-947f-dfd09f975f42.png" width=40% height=30%></p>  
+ 
 <br>
 
 <p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/53ecf52f-2846-417d-be7d-ee544d6e2df3.png" width=40% height=30%></p> 
-
-<br>
+ 
+<br> 
 
 <p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/0b170d96-98cd-4c75-b10b-fcf5e32fafda.png" width=60% height=50%></p> 
-
+ 
 <br/>
 
 ![class-object](https://github.com/user-attachments/assets/adafaa1d-22d1-4524-a68b-8168ccd64455) 
-
+ 
 
 <br/>
 <br> 

@@ -110,11 +110,11 @@
 <br><br>
 
 
-<p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/009e97fc-1ee6-439e-b524-2d15c0253f22.png" width=60% height=50%></p> 
+<p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/009e97fc-1ee6-439e-b524-2d15c0253f22.png" width=60% height=50%></p>  
 
 <br><br>
 
-https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/62b1204a-2cb5-4d72-88d5-1b70ce6103b8      
+https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/62b1204a-2cb5-4d72-88d5-1b70ce6103b8       
  
 
 
@@ -150,11 +150,11 @@ https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/62b1204a-2cb5-4d7
 
 
 
-![class](https://github.com/user-attachments/assets/ba8a5ac3-6cc6-4030-959f-d85d437a10dc)
+![class](https://github.com/user-attachments/assets/ba8a5ac3-6cc6-4030-959f-d85d437a10dc) 
 
 <br><br>
 
-![class 2](https://github.com/user-attachments/assets/2b514649-3b6a-4a69-ac02-2eeaed20e6bc)
+![class 2](https://github.com/user-attachments/assets/2b514649-3b6a-4a69-ac02-2eeaed20e6bc) 
 
 <br><br>
 
@@ -169,19 +169,19 @@ https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/62b1204a-2cb5-4d7
 <br/>
 <br/>
 
-<p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/c8e53e10-b9e5-4d54-947f-dfd09f975f42.png" width=40% height=30%></p>
+<p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/c8e53e10-b9e5-4d54-947f-dfd09f975f42.png" width=40% height=30%></p> 
 
 <br>
 
-<p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/53ecf52f-2846-417d-be7d-ee544d6e2df3.png" width=40% height=30%></p>
+<p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/53ecf52f-2846-417d-be7d-ee544d6e2df3.png" width=40% height=30%></p> 
 
 <br>
 
-<p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/0b170d96-98cd-4c75-b10b-fcf5e32fafda.png" width=60% height=50%></p>
+<p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/0b170d96-98cd-4c75-b10b-fcf5e32fafda.png" width=60% height=50%></p> 
 
 <br/>
 
-![class-object](https://github.com/user-attachments/assets/adafaa1d-22d1-4524-a68b-8168ccd64455)
+![class-object](https://github.com/user-attachments/assets/adafaa1d-22d1-4524-a68b-8168ccd64455) 
 
 
 <br/>
@@ -235,6 +235,6 @@ https://github.com/SJaynesh/CPP-Languge-Ch-02/assets/115562979/2476d498-66cd-41d
 <br><br>
 
 
-![Class-Object Syntax](https://github.com/user-attachments/assets/f45fcd82-c863-4349-8c0e-20615add15f9)
+![Class-Object Syntax](https://github.com/user-attachments/assets/f45fcd82-c863-4349-8c0e-20615add15f9) 
 
 
